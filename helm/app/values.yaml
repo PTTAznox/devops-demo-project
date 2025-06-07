@@ -6,7 +6,7 @@ replicaCount: 2
 
 image:
   githubID: PTTAznox
-  repository: demo-java-app
+  repository: pttaznox77/demo-java-app
   pullPolicy: IfNotPresent
   # Overrides the image tag whose default is the chart appVersion.
   tag: V1.0
